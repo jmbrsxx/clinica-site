@@ -3,21 +3,21 @@ import { Star, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Sarah Mitchell",
-    role: "Paciente desde 2019",
-    text: "A DentaCare transformou completamente meu sorriso. A equipe foi incrivelmente profissional e me deixou à vontade durante todo o processo. Não poderia estar mais feliz com os resultados!",
+    name: "Raquel Gonçalves",
+    role: "Paciente",
+    text: "Eu sou a maior fã da mulher Francine, e paciente fiel a Drª. Atendimento excelente, capricho, e cuidado com o paciente... Indico de olhos fechados.",
     rating: 5,
   },
   {
-    name: "James Rodriguez",
-    role: "Paciente desde 2021",
-    text: "Sempre tive medo de ir ao dentista, mas a equipe daqui mudou tudo. Eles explicaram cada etapa e garantiram que eu estivesse confortável. Um atendimento verdadeiramente excepcional.",
+    name: "Carla Fraga",
+    role: "Paciente",
+    text: "Atendimento maravilhoso! Fiz acompanhamento com a dentista Francine, utilizando placas alinhadoras invisíveis, adorei o resultado, super indico!",
     rating: 5,
   },
   {
-    name: "Emily Chen",
-    role: "Paciente desde 2020",
-    text: "Desde o momento em que entrei, soube que era diferente. As instalações modernas, a recepção calorosa e a expertise dos dentistas — tudo superou minhas expectativas.",
+    name: "Carla Vieira Gonçalves",
+    role: "Paciente",
+    text: "Atendimento impecável, e a dra. Fran além de uma ótima profissional é uma querida! Super indico os serviços do espaço!",
     rating: 5,
   },
 ];

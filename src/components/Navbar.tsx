@@ -19,9 +19,9 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between h-20 px-6">
         <a href="#home" className="flex items-center gap-2">
           <div className="w-10 h-10 rounded-full bg-gradient-primary flex items-center justify-center">
-            <span className="font-display text-primary-foreground text-lg">D</span>
+            <span className="font-display text-primary-foreground text-lg">E</span>
           </div>
-          <span className="font-display text-2xl text-foreground">DentaCare</span>
+          <span className="font-display text-2xl text-foreground">Espaço Sorriso Pró</span>
         </a>
 
         <div className="hidden md:flex items-center gap-8">
@@ -37,9 +37,9 @@ const Navbar = () => {
         </div>
 
         <div className="hidden md:flex items-center gap-4">
-          <a href="tel:+1234567890" className="flex items-center gap-2 text-sm font-medium text-foreground">
+          <a href="tel:051998588139" className="flex items-center gap-2 text-sm font-medium text-foreground">
             <Phone size={16} className="text-primary" />
-            (123) 456-7890
+            (51) 99858-8139
           </a>
           <Button asChild>
             <a href="#contact">Agendar Consulta</a>

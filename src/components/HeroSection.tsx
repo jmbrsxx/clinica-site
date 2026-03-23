@@ -24,7 +24,7 @@ const HeroSection = () => {
                 ))}
               </div>
               <span className="text-sm font-medium text-muted-foreground">
-                Avaliado 4.9/5 por mais de 2.000 pacientes
+                Avaliado 5,0 por 60 pacientes
               </span>
             </div>
 
