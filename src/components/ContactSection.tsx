@@ -3,9 +3,9 @@ import { MapPin, Phone, Clock, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const contactInfo = [
-  { icon: MapPin, label: "Visite-nos", value: "Av. Getúlio Vargas, 1691 - Sala 805\nMenino Deus, Porto Alegre - RS, 90150-005\nLocalizado em: Neo - Centro Empresarial" },
-  { icon: Phone, label: "Ligue", value: "(51) 99858-8139" },
-  { icon: Mail, label: "E-mail", value: "contato@espacosorripro.com.br" },
+  { icon: MapPin, label: "Visite-nos", value: "Rua Exemplo, 123 - Sala 01\nBairro Centro, Cidade Exemplo - BR, 00000-000\nLocalizado em: Centro Comercial Exemplo" },
+  { icon: Phone, label: "Ligue", value: "(00) 00000-0000" },
+  { icon: Mail, label: "E-mail", value: "contato@exemplo.com" },
   { icon: Clock, label: "Horário de Atendimento", value: "Seg – Sex: 09h – 18h" },
 ];
 
